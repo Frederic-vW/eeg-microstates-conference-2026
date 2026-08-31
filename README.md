@@ -1,12 +1,15 @@
 # eeg-microstates-conference-2026
 [![DOI](https://zenodo.org/badge/1305351940.svg)](https://doi.org/10.5281/zenodo.22214702)
 
+> [!IMPORTANT]
+> Please cite this repo when using its contents for research or teaching.
+
 mstsa notebooks for EEG microstates conference 2026, Pescara, Italy
 
 **Author:** Frederic von Wegner, UNSW Sydney, Aug-Sep 2026.  
 [UNSW profile](https://research.unsw.edu.au/people/dr-frederic-von-wegner), [ResearchGate](https://www.researchgate.net/profile/Frederic-Wegner/research), [Google Scholar](https://scholar.google.com.au/citations?hl=en&pli=1&user=3dMJpvcAAAAJ) 
 
-## A crash course in advanced EEG microstate analysis
+## A crash course in EEG microstate time series analysis
 
 This workshop gives a survey over recently developed time series analysis tools for the analysis of EEG microstate sequences.
 
