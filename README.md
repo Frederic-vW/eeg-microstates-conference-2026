@@ -1,4 +1,6 @@
 # eeg-microstates-conference-2026
+[![DOI](https://zenodo.org/badge/1305351940.svg)](https://doi.org/10.5281/zenodo.22214702)
+
 mstsa notebooks for EEG microstates conference 2026, Pescara, Italy
 
 **Author:** Frederic von Wegner, UNSW Sydney, Aug-Sep 2026.  
