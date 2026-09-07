@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-09-07T23:28:28.880654Z",
+      "created": "2026-09-07T23:36:30.275430Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-07T22:39:14.993278Z",
+      "last_modified": "2026-09-07T23:30:38.111462Z",
       "mimetype": null,
       "name": "03_potts_complexity.ipynb",
       "path": "03_potts_complexity.ipynb",
@@ -16,11 +16,11 @@
     },
     {
       "content": null,
-      "created": "2026-09-07T23:28:28.888654Z",
+      "created": "2026-09-07T23:36:30.283431Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-07T23:28:28.888654Z",
+      "last_modified": "2026-09-07T23:36:30.283431Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-09-07T23:28:28.880654Z",
+  "created": "2026-09-07T23:36:30.275430Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-09-07T23:28:28.880654Z",
+  "last_modified": "2026-09-07T23:36:30.275430Z",
   "mimetype": null,
   "name": "",
   "path": "",

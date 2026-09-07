@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-09-07T23:28:28.900654Z",
+      "created": "2026-09-07T23:36:30.307432Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-07T23:28:28.900654Z",
+      "last_modified": "2026-09-07T23:36:30.307432Z",
       "mimetype": null,
       "name": "potts",
       "path": "data/potts",
@@ -16,11 +16,11 @@
     },
     {
       "content": null,
-      "created": "2026-09-07T23:28:28.880654Z",
+      "created": "2026-09-07T23:36:30.275430Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-07T23:28:28.880654Z",
+      "last_modified": "2026-09-07T23:36:30.275430Z",
       "mimetype": null,
       "name": "cache",
       "path": "data/cache",
@@ -29,11 +29,11 @@
       "writable": true
     }
   ],
-  "created": "2026-09-07T23:28:28.888654Z",
+  "created": "2026-09-07T23:36:30.283431Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-09-07T23:28:28.888654Z",
+  "last_modified": "2026-09-07T23:36:30.283431Z",
   "mimetype": null,
   "name": "data",
   "path": "data",
