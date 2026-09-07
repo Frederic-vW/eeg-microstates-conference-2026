@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-07T23:28:28.888654Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-07T23:28:28.888654Z",
+      "mimetype": null,
+      "name": "potts_complexity",
+      "path": "data/cache/potts_complexity",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-07T23:28:28.880654Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-07T23:28:28.880654Z",
+  "mimetype": null,
+  "name": "cache",
+  "path": "data/cache",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
