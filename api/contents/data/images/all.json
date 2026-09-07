@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-07T23:46:56.226924Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-07T23:45:22.448562Z",
+      "mimetype": "image/png",
+      "name": "Figure1_SampEnt.png",
+      "path": "data/images/Figure1_SampEnt.png",
+      "size": 150825,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-07T23:46:56.226924Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-07T23:43:08.948674Z",
+      "mimetype": "image/png",
+      "name": "PCA3_kmeans_clusters_example2.png",
+      "path": "data/images/PCA3_kmeans_clusters_example2.png",
+      "size": 164097,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-07T23:46:56.226924Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-07T23:46:56.226924Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "data/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
