@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.529821Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:27:30.431131Z",
+      "mimetype": null,
+      "name": "er_lzc_length_sweep_b1_nmax100000_nsurr10_nsurrlzc3_kmaxfixed3_L1000-100000-20.npz",
+      "path": "data/cache/optimum_history_length/er_lzc_length_sweep_b1_nmax100000_nsurr10_nsurrlzc3_kmaxfixed3_L1000-100000-20.npz",
+      "size": 75352,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.529821Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:27:30.431131Z",
+      "mimetype": null,
+      "name": "er_kmax_sweep_b1_nmax100000_nsurr10_k1-7.npz",
+      "path": "data/cache/optimum_history_length/er_kmax_sweep_b1_nmax100000_nsurr10_k1-7.npz",
+      "size": 14884,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-08T10:40:00.529821Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-08T10:40:00.529821Z",
+  "mimetype": null,
+  "name": "optimum_history_length",
+  "path": "data/cache/optimum_history_length",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

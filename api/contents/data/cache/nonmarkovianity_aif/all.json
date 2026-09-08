@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.525822Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:24:58.577619Z",
+      "mimetype": null,
+      "name": "aif_paif_b1_n30_s5.npz",
+      "path": "data/cache/nonmarkovianity_aif/aif_paif_b1_n30_s5.npz",
+      "size": 155098,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-08T10:40:00.525822Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-08T10:40:00.525822Z",
+  "mimetype": null,
+  "name": "nonmarkovianity_aif",
+  "path": "data/cache/nonmarkovianity_aif",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

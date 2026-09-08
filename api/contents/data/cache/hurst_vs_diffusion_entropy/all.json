@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.497827Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.773109Z",
+      "mimetype": null,
+      "name": "scaling_curves_b3_K4_lmax5000.npz",
+      "path": "data/cache/hurst_vs_diffusion_entropy/scaling_curves_b3_K4_lmax5000.npz",
+      "size": 386918,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.493828Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.773109Z",
+      "mimetype": null,
+      "name": "hurst_dea_b3_K4_lmax5000.npz",
+      "path": "data/cache/hurst_vs_diffusion_entropy/hurst_dea_b3_K4_lmax5000.npz",
+      "size": 13370,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.493828Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.773109Z",
+      "mimetype": null,
+      "name": "scaling_curves_b3_K4_lmax10000.npz",
+      "path": "data/cache/hurst_vs_diffusion_entropy/scaling_curves_b3_K4_lmax10000.npz",
+      "size": 386918,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.493828Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.773109Z",
+      "mimetype": null,
+      "name": "hurst_dea_b3_K4_lmax10000.npz",
+      "path": "data/cache/hurst_vs_diffusion_entropy/hurst_dea_b3_K4_lmax10000.npz",
+      "size": 13370,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-08T10:40:00.493828Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-08T10:40:00.493828Z",
+  "mimetype": null,
+  "name": "hurst_vs_diffusion_entropy",
+  "path": "data/cache/hurst_vs_diffusion_entropy",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

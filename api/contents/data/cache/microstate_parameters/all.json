@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.513824Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:20:43.935026Z",
+      "mimetype": null,
+      "name": "dur_occ_cov.npz",
+      "path": "data/cache/microstate_parameters/dur_occ_cov.npz",
+      "size": 80134,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-08T10:40:00.513824Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-08T10:40:00.513824Z",
+  "mimetype": null,
+  "name": "microstate_parameters",
+  "path": "data/cache/microstate_parameters",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

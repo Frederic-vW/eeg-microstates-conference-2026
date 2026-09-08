@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.537820Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.769109Z",
+      "mimetype": null,
+      "name": "pooled_fits_b3_K4.pkl",
+      "path": "data/cache/sojourn_distribution_fit/pooled_fits_b3_K4.pkl",
+      "size": 4377578,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.549818Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.769109Z",
+      "mimetype": null,
+      "name": "pooled_fits_ms_b3_K4.pkl",
+      "path": "data/cache/sojourn_distribution_fit/pooled_fits_ms_b3_K4.pkl",
+      "size": 4539386,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-08T10:40:00.545818Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-08T10:40:00.545818Z",
+  "mimetype": null,
+  "name": "sojourn_distribution_fit",
+  "path": "data/cache/sojourn_distribution_fit",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

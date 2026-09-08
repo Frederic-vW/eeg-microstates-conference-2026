@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.533820Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.765109Z",
+      "mimetype": null,
+      "name": "h_real_vs_surr_b3_K4_n10_nsurr19_lmax5000.npz",
+      "path": "data/cache/slow_exponential_dynamics/h_real_vs_surr_b3_K4_n10_nsurr19_lmax5000.npz",
+      "size": 7932,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.533820Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.765109Z",
+      "mimetype": null,
+      "name": "h_real_vs_surr_b3_K4_n10_nsurr19_lmax10000.npz",
+      "path": "data/cache/slow_exponential_dynamics/h_real_vs_surr_b3_K4_n10_nsurr19_lmax10000.npz",
+      "size": 7932,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.533820Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.765109Z",
+      "mimetype": null,
+      "name": "h_real_vs_surr_partitions_b3_K4_n10_nsurr19_lmax5000.npz",
+      "path": "data/cache/slow_exponential_dynamics/h_real_vs_surr_partitions_b3_K4_n10_nsurr19_lmax5000.npz",
+      "size": 6332,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.533820Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:30:51.765109Z",
+      "mimetype": null,
+      "name": "h_real_vs_surr_b3_K4_n10_nsurr10_lmax10000.npz",
+      "path": "data/cache/slow_exponential_dynamics/h_real_vs_surr_b3_K4_n10_nsurr10_lmax10000.npz",
+      "size": 5052,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-08T10:40:00.533820Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-08T10:40:00.533820Z",
+  "mimetype": null,
+  "name": "slow_exponential_dynamics",
+  "path": "data/cache/slow_exponential_dynamics",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.489829Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:22:52.620347Z",
+      "mimetype": null,
+      "name": "aif_three_way_b3_K4_n15_s50000.npz",
+      "path": "data/cache/first_order_syntax_aif/aif_three_way_b3_K4_n15_s50000.npz",
+      "size": 1222,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-08T10:40:00.489829Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-08T10:40:00.489829Z",
+  "mimetype": null,
+  "name": "first_order_syntax_aif",
+  "path": "data/cache/first_order_syntax_aif",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

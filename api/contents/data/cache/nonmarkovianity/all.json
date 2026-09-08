@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.513824Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:24:58.573619Z",
+      "mimetype": null,
+      "name": "order_tests_b1.npz",
+      "path": "data/cache/nonmarkovianity/order_tests_b1.npz",
+      "size": 5596,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.513824Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:24:58.573619Z",
+      "mimetype": null,
+      "name": "geometricity_b1.npz",
+      "path": "data/cache/nonmarkovianity/geometricity_b1.npz",
+      "size": 6698,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-09-08T10:40:00.517823Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-08T10:24:58.573619Z",
+      "mimetype": null,
+      "name": "sojourn_ccdf_b1.npz",
+      "path": "data/cache/nonmarkovianity/sojourn_ccdf_b1.npz",
+      "size": 5266494,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-08T10:40:00.513824Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-08T10:40:00.513824Z",
+  "mimetype": null,
+  "name": "nonmarkovianity",
+  "path": "data/cache/nonmarkovianity",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
