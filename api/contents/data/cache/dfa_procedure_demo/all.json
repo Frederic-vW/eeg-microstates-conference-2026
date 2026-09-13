@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-09-13T08:29:11.633211Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-09-13T08:26:19.418011Z",
+      "mimetype": null,
+      "name": "walk_b3_K4.npz",
+      "path": "data/cache/dfa_procedure_demo/walk_b3_K4.npz",
+      "size": 133246,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-09-13T08:29:11.633211Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-09-13T08:29:11.633211Z",
+  "mimetype": null,
+  "name": "dfa_procedure_demo",
+  "path": "data/cache/dfa_procedure_demo",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

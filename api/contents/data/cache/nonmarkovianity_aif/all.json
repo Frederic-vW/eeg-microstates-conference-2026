@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-09-08T10:40:00.525822Z",
+      "created": "2026-09-13T08:29:11.701216Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-08T10:24:58.577619Z",
+      "last_modified": "2026-09-13T08:26:03.677936Z",
       "mimetype": null,
       "name": "aif_paif_b1_n30_s5.npz",
       "path": "data/cache/nonmarkovianity_aif/aif_paif_b1_n30_s5.npz",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-09-08T10:40:00.525822Z",
+  "created": "2026-09-13T08:29:11.701216Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-09-08T10:40:00.525822Z",
+  "last_modified": "2026-09-13T08:29:11.701216Z",
   "mimetype": null,
   "name": "nonmarkovianity_aif",
   "path": "data/cache/nonmarkovianity_aif",

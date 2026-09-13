@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-09-08T10:40:00.493828Z",
+      "created": "2026-09-13T08:29:11.653213Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-08T10:22:52.620347Z",
+      "last_modified": "2026-09-13T08:26:03.613935Z",
       "mimetype": null,
       "name": "self_consistency_b3_K4_Nlarge50000.npz",
       "path": "data/cache/first_order_syntax_self_consistency/self_consistency_b3_K4_Nlarge50000.npz",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-09-08T10:40:00.493828Z",
+  "created": "2026-09-13T08:29:11.653213Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-09-08T10:40:00.493828Z",
+  "last_modified": "2026-09-13T08:29:11.653213Z",
   "mimetype": null,
   "name": "first_order_syntax_self_consistency",
   "path": "data/cache/first_order_syntax_self_consistency",

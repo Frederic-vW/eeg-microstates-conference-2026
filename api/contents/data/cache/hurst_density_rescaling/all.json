@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-09-08T10:40:00.493828Z",
+      "created": "2026-09-13T08:29:11.657213Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-08T10:30:51.773109Z",
+      "last_modified": "2026-09-13T08:26:03.613935Z",
       "mimetype": null,
       "name": "rescaling_sub-010297_b3_K4.npz",
       "path": "data/cache/hurst_density_rescaling/rescaling_sub-010297_b3_K4.npz",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-09-08T10:40:00.493828Z",
+  "created": "2026-09-13T08:29:11.657213Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-09-08T10:40:00.493828Z",
+  "last_modified": "2026-09-13T08:29:11.657213Z",
   "mimetype": null,
   "name": "hurst_density_rescaling",
   "path": "data/cache/hurst_density_rescaling",

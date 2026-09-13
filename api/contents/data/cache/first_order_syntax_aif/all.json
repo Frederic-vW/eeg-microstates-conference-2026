@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-09-08T10:40:00.489829Z",
+      "created": "2026-09-13T08:29:11.653213Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-09-08T10:22:52.620347Z",
+      "last_modified": "2026-09-13T08:26:03.605935Z",
       "mimetype": null,
       "name": "aif_three_way_b3_K4_n15_s50000.npz",
       "path": "data/cache/first_order_syntax_aif/aif_three_way_b3_K4_n15_s50000.npz",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-09-08T10:40:00.489829Z",
+  "created": "2026-09-13T08:29:11.653213Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-09-08T10:40:00.489829Z",
+  "last_modified": "2026-09-13T08:29:11.653213Z",
   "mimetype": null,
   "name": "first_order_syntax_aif",
   "path": "data/cache/first_order_syntax_aif",
