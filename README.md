@@ -6,6 +6,8 @@
 
 mstsa notebooks for EEG microstates conference 2026, Pescara, Italy
 
+🚀 [**Try the notebooks in your browser**](https://frederic-vw.github.io/eeg-microstates-conference-2026/lab/index.html) — no install required (experimental JupyterLite build, results run from precomputed cache)
+
 **Author:** Frederic von Wegner, UNSW Sydney, Aug-Sep 2026.  
 [UNSW profile](https://research.unsw.edu.au/people/dr-frederic-von-wegner), [ResearchGate](https://www.researchgate.net/profile/Frederic-Wegner/research), [Google Scholar](https://scholar.google.com.au/citations?hl=en&pli=1&user=3dMJpvcAAAAJ) 
 
